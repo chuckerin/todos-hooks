@@ -17,8 +17,6 @@ function TodoForm({ addTodo }) {
                     margin='normal' 
                     label='Add New Todo' 
                     fullWidth 
-                    // onMouseEnter={{style: 'none'}}
-                    variant="outlined"
                 />
             </form>
         </Paper>
